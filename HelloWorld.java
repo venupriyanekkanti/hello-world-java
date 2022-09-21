@@ -39,5 +39,7 @@ public class HelloWorld {
     System.out.println("Hello,have a greatday");
     System.out.println("Hello,hi tharuni");
     System.out.println("Hello,hi tharuni");
+    System.out.println("Hello,hi srikanth");
+    System.out.println("Hello,hi srikanth");
   }
 }
